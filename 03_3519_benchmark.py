@@ -1,4 +1,4 @@
-#Observação: apenas o quicksort tem pior caso pois utiliza pivô para determinar a divisão da lista em sua estrutura para aplicar recursão enquanto o mergesort e o selectionsort têm seus casos de recursão pré-determinados (dividir em listas de tamanho 2 no caso do merge ou aplicar recursão em uma sublista de tamanho n-1 no caso do selection)
+#Observação: apenas o quicksort tem pior caso poi utiliza pivô para determinar a divisão da lista em sua estrutura para aplicar recursão enquanto o mergesort e o selectionsort têm seus casos de recursão pré-determinados (dividir em listas de tamanho 2 no caso do merge ou aplicar recursão em uma sublista de tamanho n-1 no caso do selection)
 
 
 import AulasPraticas.AP_03_ordenacao as arquivo
